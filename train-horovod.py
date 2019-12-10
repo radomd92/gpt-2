@@ -7,12 +7,12 @@ import json
 import os
 import numpy as np
 import tensorflow as tf
-import random
 import time
 
 import horovod.tensorflow as hvd
 
-import model, sample, encoder
+import model, sample
+from src import encoder
 from load_dataset import load_dataset, Sampler
 
 CHECKPOINT_DIR = 'checkpoint'
@@ -28,7 +28,7 @@ def maketree(path):
 
 
 def train_main(dataset,
-               model_name='117M',
+               model_name='124M',
                seed=None,
                batch_size=2,
                sample_length=1023,

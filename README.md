@@ -1,11 +1,11 @@
 
-Reference:  ["Beginner’s Guide to Retrain GPT-2 (117M) to Generate Custom Text Content"](https://medium.com/@ngwaifoong92/beginners-guide-to-retrain-gpt-2-117m-to-generate-custom-text-content-8bb5363d8b7f)
+Reference:  ["Beginner’s Guide to Retrain GPT-2 (124M) to Generate Custom Text Content"](https://medium.com/@ngwaifoong92/beginners-guide-to-retrain-gpt-2-124M-to-generate-custom-text-content-8bb5363d8b7f)
 
 # gpt-2
 
 Code from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
-We have currently released small (117M parameter) and medium (345M parameter) versions of GPT-2.  While we have not released the larger models, we have [released a dataset](https://github.com/openai/gpt-2-output-dataset) for researchers to study their behaviors.
+We have currently released small (124M parameter) and medium (345M parameter) versions of GPT-2.  While we have not released the larger models, we have [released a dataset](https://github.com/openai/gpt-2-output-dataset) for researchers to study their behaviors.
 
 See more details in our [blog post](https://blog.openai.com/better-language-models/).
 
@@ -35,7 +35,7 @@ See [CONTRIBUTORS.md](./CONTRIBUTORS.md)
 
 ## Fine tuning on custom datasets
 
-To retrain GPT-2 117M model on a custom text dataset:
+To retrain GPT-2 124M model on a custom text dataset:
 
 ```
 PYTHONPATH=src ./train.py --dataset <file|directory|glob>

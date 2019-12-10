@@ -6,10 +6,12 @@ import os
 import numpy as np
 import tensorflow as tf
 
-import model, sample, encoder
+import model, sample
+from src import encoder
+
 
 def sample_model(
-    model_name='117M',
+    model_name='1560M',
     seed=None,
     nsamples=0,
     batch_size=1,
@@ -20,7 +22,7 @@ def sample_model(
 ):
     """
     Run the sample_model
-    :model_name=117M : String, which model to use
+    :model_name=124M : String, which model to use
     :seed=None : Integer seed for random number generators, fix seed to
      reproduce results
     :nsamples=0 : Number of samples to return, if 0, continues to
@@ -55,7 +57,7 @@ def sample_model(
 
         output = sample.sample_sequence(
             hparams=hparams, length=length,
-            start_token=enc.encoder['<|endoftext|>'],
+            start_token=enc.encoder["<|endoftext|>"],
             batch_size=batch_size,
             temperature=temperature, top_k=top_k, top_p=top_p
         )[:, 1:]
@@ -72,6 +74,7 @@ def sample_model(
                 text = enc.decode(out[i])
                 print("=" * 40 + " SAMPLE " + str(generated) + " " + "=" * 40)
                 print(text)
+
 
 if __name__ == '__main__':
     fire.Fire(sample_model)
