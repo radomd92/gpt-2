@@ -34,6 +34,6 @@ koa dia tsy navela teo amin’ny toram-pasika izy io, fa nentina mpanjono avy an
 
 
 
-Ce site utilise Akismet pour réduire les indésirables. En savoir plus sur comment les données de 
-commentaires sont utilisées. 
+
+
 

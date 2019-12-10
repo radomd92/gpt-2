@@ -8,6 +8,8 @@ proxies = {
  "https": "http://jenkinzz:asdlkajemsdsdfnf@hq-proxynossl:80",
 }
 
+proxies = {}
+
 
 def retry_on_fail(exceptions, retries=5, time_between_retries=1):
     def _retry_on_fail(f):

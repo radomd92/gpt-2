@@ -19,10 +19,12 @@ class Crawler(WordPressCrawler):
 
     def list_pages(self, last_page_number=200):
         categories = [
-            ('raharaham-pirenena', 200),
-            ('sosialy', 200),
-            ('fanatanjahantena', 200),
-            ('samihafa', 200),
+            ('tranga-samihafa', 276),
+            ('raharaham-pirenena', 238),
+            ('sosialy', 227),
+            ('faritra', 17),
+            ('fanatanjahantena', 142),
+            ('samihafa', 55),
         ]
         for category, n_pages in categories:
             self.crawl_url_pattern = "https://aoraha.mg/cat/" + category + "/page/%d/"

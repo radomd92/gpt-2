@@ -4,7 +4,7 @@ from crawler.aoraha import Crawler as aoraha
 from crawler.midi import Crawler as midi
 from crawler.newsmada import Crawler as newsmada
 
-spider_class = newsmada
+spider_class = aoraha
 spider_obj = spider_class()
-spider_obj.list_pages(987)
-# spider_obj.parse()
+#spider_obj.list_pages()
+spider_obj.parse()
