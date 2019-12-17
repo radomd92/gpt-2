@@ -82,7 +82,7 @@ class WordPressCrawler(object):
             count += 1
 
     def list_pages(self, last_page_number=100):
-        with open(self.listfile_name, 'w') as pagelist:
+        with open(self.listfile_name, 'a') as pagelist:
             for page_no in range(1, last_page_number):
                 print('-'*20 + str(page_no) + '-'*20)
                 page = requests.get(self.crawl_url_pattern % page_no, proxies=proxies)

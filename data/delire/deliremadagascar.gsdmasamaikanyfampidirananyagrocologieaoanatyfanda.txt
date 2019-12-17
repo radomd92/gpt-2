@@ -1,0 +1,58 @@
+GSDM: ASA MAIKA NY FAMPIDIRANA NY "AGROÉCOLOGIE" AO ANATY FANDAHARAM-PIANARANA | DÉLIREMADAGASCAR
+
+
+
+Efa nisy ny andrana natao ary nahitam-bokany izany. Sekolim-panjakana sy tsy miankina ao amin’ny 
+voalohany (kilasy fahaenina sy fahadimy) miisa 12 no nanaovana andrana tamin’ny fampidirana 
+« agroécologie » na fomba fambolena maharitra mikajy ny tontolo iainana tao anaty fandaharam-pianarana. 
+anatin’ny tetikasa PAPAM, vatsian’ny AFD vola sy ny tetikasa MANITATRA II ity fampianarana ny 
+ny fomba fambolena maharitra any an-tsekoly ity. Efa nanomboka tamin’ny taona 2017 ny asa ka sekoly 
+any Vakinankaratra no nahazo tombontsoa tamin’izany. Ho fanatsarana ny fandaharan’asa sy hamolavolana 
+mety ho tohin’ny tetikasa dia nanatanteraka atrikasa, nanaovana tomban’ezaka ny teo anivon’ny 
+ny zoma 29 novambra 2019 teto Antsirabe tampom-tanana. 
+
+jQuery(document).ready(function($) { $("#preloader-8771").fadeOut(2000, function () { $("a[rel^='ewicprettyPhoto[8771]']").ewcPhoto({ theme: "ewc_default", allow_expand: false, deeplinking: false, autoplay_slideshow:true, social_tools:false $(".bxslider-8771").fadeIn(3000); $(".bxslider-8771").bxSlider({ slideMargin: 10, easing: "easeInQuad", autoControls: true, stopAuto: false, adaptiveHeight: true, adaptiveHeightSpeed: 700, preloadImages: "visible", infiniteLoop: true, autoHover: true, mode: "horizontal", onSlideBefore: function() { $(".bxslider-8771 .ewic-caption").slideUp(); onSlideAfter: function() { $("."+$(".bxslider-8771").parent().next().find(".bx-controls-auto").find("a").attr("class")).trigger("click"); $(".bxslider-8771 .ewic-caption").slideDown(); $(".bx-clone a").removeAttr( "rel" ); Nanatrika izany ny solontenan’ny: PAPAM, ny mpamatsy vola, ny foibem-paritry ny ministeran’ny 
+iainana sy ny fampandrosoana maharitra, ny foibem-paritry ny ministeran’ny fambolena sy ny fiompiana, 
+sampandraharahan’ny OEMC ( foibe fanabeazam-bahoaka ho olom-pirenena) izay eo ambany fiahian’ny 
+fanabeazam-pirenena ary ny jono, ny manam-pahefana ao amin’ny faritra Vakinankaratra ary ny 
+ireo mpahazo tombontsoa (talen-tsekoly, mpampianatra nahazo fiofanana, mpianatra, ray aman-dreny). 
+vokatra naharesy lahatra ny ray aman-dreny nandray anjara tamin’ny atrikasa ohatra ny voka-bary 
+ka hatramin’ny dimy taonina isaky ny hektara kanefa raha ny fomba fambolena nentim-paharazana 
+raha mahazo iray taonina sy sasany isaky ny hektara. Tsy nijanona tamin’ny fampiharana tany an-tsekoly 
+ireo mpianatra nahazo fiofanana fa nampita izany ary nisy tamin’ireo ray aman-dreny no resy lahatra 
+nampihatra izany avy hatrany. « Tena mahomby ny fomba fambolena maharitra satria sady mamboly 
+miaro tontolo iainana », hoy ny solontenan’ireo mpianatra nandritra ny fijoroana vavolombelona 
+ireo. Nambaran’izy ireo fa tany am-pianarana no nahafantaran’ireo teknika ampiasaina amin’ny 
+toy fampivadiamboly, fifampidimbiasamboly, ny voly rakotra, ny fanamboarana zezika kômpôsta 
+ny ranon-jezika, ny fambolena zavamaniry mamerina ny tsiron’ny tany sy zavamaniry miady amin’ny 
+mpanimba voly, fambolen-kazo sy hazo fihinamboa. Santionany amin’ireo vokatsoa azon’ny ray 
+ireo ny fihenan’ny fampiasana zezika simika izay tena manimba tsiron’ny tany, ny fihenan’ny fanasàna 
+tany, ny fiverenan’ny tsiron’ny tany ary ny fiakaran’ny taham-pamokarana. Araka ny fanazavan’ny 
+manatanteraka ny GSDM, Rakotoarimanana fa ankoatra ny fanomanana ny mpianatra amin’ny sehatra 
+fambolena, fiarovana ny tontolo iainana dia anisany tanjon’ny atrikasa ny fanamafisana paika 
+ny fitondram-panjakana hampiditra ny agroécologie ho taranja hampianarina an-tsekoly ary ho 
+manerana sekoly eto Madagasikara. Raha tsy misy ny sampona dia efa miroso amin’ny fanatanterahana 
+ny ministera mpiahy ny fanabeazam-pirenena. 
+
+
+
+
+
+Votre adresse de messagerie ne sera pas publiée. Les champs obligatoires sont indiqués avec * 
+
+
+
+
+
+
+
+
+
+
+
+JavaScript est actuellement désactivé. Afin de pouvoir poster un commentaire, s'il vous plaît 
+que les Cookies et JavaScript sont activés puis rechargez la page. Cliquez ici pour savoir comment 
+JavaScript dans votre navigateur. 
+
+© De-lire Madagascar by olondia corporation 
+
