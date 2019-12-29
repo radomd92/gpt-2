@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from . import WordPressCrawler
 
 
@@ -16,6 +18,12 @@ class Crawler(WordPressCrawler):
 
     def iterate_text(self):
         return self.soup.find_all('p')
+
+    def fetch_today(self):
+        today = datetime.now()
+        self.crawl_url_pattern = "http://www.deliremadagascar.com/%04d/%02d" % (today.year, today.month)
+        self.crawl_url_pattern += "/page/%d/"
+        super(Crawler, self).list_pages(5)
 
     def list_pages(self, last_page_number=200):
         for year in range(2016, 2020):

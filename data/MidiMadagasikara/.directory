@@ -1,6 +1,5 @@
 [Dolphin]
-SortOrder=1
-SortRole=size
-Timestamp=2019,12,10,21,59,24
+SortRole=date
+Timestamp=2019,12,26,13,37,19
 Version=3
 ViewMode=1

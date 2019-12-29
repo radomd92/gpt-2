@@ -81,8 +81,16 @@ class WordPressCrawler(object):
 
             count += 1
 
+    def fetch_today(self):
+        with open(self.listfile_name, 'w') as pagelist:
+            page = requests.get(self.crawl_url_pattern % (1,), proxies=proxies)
+            for link in re.findall(self.link_regex, page.text):
+                print(link)
+                pagelist.write(link)
+                pagelist.write('\n')
+
     def list_pages(self, last_page_number=100):
-        with open(self.listfile_name, 'a') as pagelist:
+        with open(self.listfile_name, 'w') as pagelist:
             for page_no in range(1, last_page_number):
                 print('-'*20 + str(page_no) + '-'*20)
                 page = requests.get(self.crawl_url_pattern % page_no, proxies=proxies)

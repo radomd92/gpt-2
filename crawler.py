@@ -5,7 +5,9 @@ from crawler.delire import Crawler as delire
 from crawler.midi import Crawler as midi
 from crawler.newsmada import Crawler as newsmada
 
-spider_class = delire
-spider_obj = spider_class()
-#spider_obj.list_pages()
-spider_obj.parse()
+if __name__ == '__main__':
+	for journal in [aoraha, delire, midi, newsmada, lagazette]:
+		spider_class = journal
+		spider_obj = spider_class()
+		spider_obj.fetch_today()
+		spider_obj.parse()
